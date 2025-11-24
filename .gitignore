@@ -53,3 +53,7 @@ Thumbs.db
 prep_*.json
 outputs/
 *.tmp
+agents/sessions/
+agents/sessions_conv/
+review_learnings.json
+*.iml
